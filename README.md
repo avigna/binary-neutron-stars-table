@@ -1,4 +1,4 @@
-# binary-neutron-stars-table
+# Table of confirmed Binary Neutron Stars
 
 Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. <sup>†</sup>Extra-galactic. <sup>*</sup> System in a Globular Cluster. 
 
@@ -24,13 +24,13 @@ Mass and other properties of the current sample of confirmed binary neutron star
 
 <sup>g</sup> [Lynch et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...93L/abstract)
 
-<sup>h</sup> Abbott et al. (2017).
+<sup>h</sup> [Abbott et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017PhRvL.119p1101A/abstract)
 
-<sup>i</sup> Abbott et al. (2020).
+<sup>i</sup> [Abbott et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)
 
-<sup>j</sup> Ferdman et al. (2020).
+<sup>j</sup> [Ferdman et al. (2020)](https://ui.adsabs.harvard.edu/abs/2020Natur.583..211F/abstract)
 
-<sup>k</sup> Andrews & Mandel (2019).
+<sup>k</sup> [Andrews & Mandel (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...8A/abstract)
 
 ## Contact
 Please email your comments, queries, suggestions, and corrections to: avignagomez@nbi.ku.dk
