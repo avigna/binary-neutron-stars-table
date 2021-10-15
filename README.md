@@ -8,22 +8,21 @@ Mass and other properties of the current sample of confirmed binary neutron star
 | 1    |             |               |                 |               |               |                  |                 |     |                   |     |
 
 
+## Bibliography
 
-Bibliography
+<sup>a</sup> references in [Tauris et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...846..170T/abstract)
 
-<sup>a</sup> references in Tauris et al. (2017).
+<sup>b</sup> references in [Vigna-Gómez et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.4009V/abstract)
 
-<sup>b</sup> references in [Vigna-Gómez et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018MNRAS.481.4009V/abstract).
+<sup>c</sup> references in [Zhu et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018PhRvD..98d3002Z/abstract)
 
-<sup>c</sup> references in Zhu et al. (2018).
+<sup>d</sup> [Ferdman (2018)](https://ui.adsabs.harvard.edu/abs/2018IAUS..337..146F/abstract)
 
-<sup>d</sup> Ferdman (2017).
+<sup>e</sup> [Martinez et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..29M/abstract)
 
-<sup>e</sup> Martinez et al. (2017).
+<sup>f</sup> [Stovall et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...854L..22S/abstract)
 
-<sup>f</sup> Stovall et al. (2018).
-
-<sup>g</sup> Lynch et al. (2018).
+<sup>g</sup> [Lynch et al. (2018)](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...93L/abstract)
 
 <sup>h</sup> Abbott et al. (2017).
 
@@ -32,3 +31,10 @@ Bibliography
 <sup>j</sup> Ferdman et al. (2020).
 
 <sup>k</sup> Andrews & Mandel (2019).
+
+## Contact
+Please email your comments, queries, suggestions, and corrections to: avignagomez@nbi.ku.dk
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
