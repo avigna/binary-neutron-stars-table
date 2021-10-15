@@ -2,9 +2,10 @@
 
 Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. <sup>†</sup>Extra-galactic. <sup>*</sup> System in a Globular Cluster. 
 
-|             | System      | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> |
-| ----------- | ----------- | ------------- | --------------- | ------------- | ------------- |              
-| 1           |             |               |                 |               |               |
+|      | System      | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e   | t<sub>merge</sub> | Ref |
+| ---- | ----------- | ------------- | --------------- | ------------- | ------------- | ---------------- | --------------- | --- | ----------------- | --- |
+|      |             | \[Msun\]      | \[Msun\]        |  \[Msun\]     | \[Msun\]      | \[ms\]           | \[days\]        |     | \[Myr\]           |     |
+| 1    |             |               |                 |               |               |                  |                 |     |                   |     |
 
 
 
