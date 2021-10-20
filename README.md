@@ -1,9 +1,8 @@
 # Table of confirmed Binary Neutron Stars
 
-Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. All masses are in solar units.
+Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively.
 
-<sup>†</sup>Extra-galactic. <sup>*</sup> System in a Globular Cluster. 
-
+## Table
 |     | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e     | t<sub>merge</sub>  | Ref   | Discovery |
 | --- | -------------- | ------------- | --------------- | ------------- | ------------- | ---------------- | ----------------| ----- | -------------------| ----- | --------- |
 | 1   | PSR J0453+1559 | 1.1754        | 2.734           | 1.559         | 1.174         | 45.8             | 4.072            | 0.113 | >H<sub>0</sub><sup>-1</sup>                | a,b   |           |
@@ -26,13 +25,23 @@ Mass and other properties of the current sample of confirmed binary neutron star
 16 & $\rm GW170817^{\dagger}$ & $1.188^{+0.004}_{-0.002}$ &  $2.73-3.29$ & 1.36-2.26 & 0.86-1.36 &  & & & 0 & h  \\
 17 & $\rm GW190425^{\dagger}$ & $1.44^{+0.02}_{-0.02}$  & $3.4^{+0.3}_{-0.1}$ & 1.60-2.52 & 1.12-1.69 & & & & 0 & i  \\
 
-[M<sub>1</sub>] = Msun
+### Units and Symbols
+[M<sub>c</sub>] = [M<sub>tot</sub>] = [M<sub>1</sub>] = [M<sub>2</sub>] = Msun
 
 [P<sub>spin</sub>] = ms
 
 [P<sub>orb</sub>] = days
 
 [t<sub>merge</sub>] = Myr
+
+<sup>†</sup> Extra-galactic 
+
+<sup>*</sup> System in a Globular Cluster 
+
+### To-Dos
+- Check merger times
+- Check chronology
+- Double check values and references
 
 ## Bibliography
 
