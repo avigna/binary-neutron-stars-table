@@ -4,11 +4,9 @@ Mass and other properties of the current sample of confirmed binary neutron star
 
 <sup>†</sup>Extra-galactic. <sup>*</sup> System in a Globular Cluster. 
 
-|     | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> \[ms\] | P<sub>orb</sub> \[days\] | e   | t<sub>merge</sub> \[Myr\] | Ref |
-| --- | -------------- | ------------- | --------------- | ------------- | ------------- | ----------------------- | ------------------------ | --- | ------------------------- | --- |
-| 1   | PSR J0453+1559 | 1.1754        | 2.734           |               |               |                         |                          |     |                     |                   |      |
-| 2   |                |               |                 |               |               |                         |                          |     |                     |                   |      |
-| 3   |                |               |                 |               |               |                         |                          |     |                     |                   |      |
+|     | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub>/ms | P<sub>orb</sub>/days | e     | t<sub>merge</sub>/Myr  | Ref   | Discovery |
+| --- | -------------- | ------------- | --------------- | ------------- | ------------- | ------------------- | ---------------------| ----- | -----------------------| ----- | --------- |
+| 1   | PSR J0453+1559 | 1.1754        | 2.734           | 1.559         | 1.174         | 45.8                | 4.072                | 0.113 | >H<sub>0</sub><sup>-1</sup>                | a,b   |           |
 
 
 
