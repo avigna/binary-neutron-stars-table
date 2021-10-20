@@ -1,6 +1,6 @@
 # Table of confirmed Binary Neutron Stars
 
-Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively.
+Mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars, M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. The values in this Table are the reported values, usually the median values. For further details about error bars and uncertanties please see the original references.
 
 ## Table
 |     | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e      | t<sub>merge</sub>  | Ref   | Year |
@@ -16,14 +16,14 @@ Mass and other properties of the current sample of confirmed binary neutron star
 | 9   | PSR J1811-1736 | -              | 2.570          | -             | -             | 104.2            | 18.779           | 0.828  | >H<sub>0</sub><sup>-1</sup>                | a,b   |           |
 | 10  | PSR J1829+2456 | -              | 2.590          | -             | -             | 41.0             | 1.176            | 0.139  | >H<sub>0</sub><sup>-1</sup>                | a,b   |           |
 | 11  | PSR J1930-1852 | -              | 2.590          | -             | -             | 185.5            | 45.060           | 0.399  | >H<sub>0</sub><sup>-1</sup>                | a,b   |           |
-| 12  | PSR J1411+2551 | -              | 2.538±0.022    | -             | -             | 62.4             | 2.616            | 0.1699 | >H<sub>0</sub><sup>-1</sup>                | b,e   |           |
-| 13  | PSR J1946+2052 | 1.0882         | 2.50±0.04      | 1.25          | 1.25          | 17.0             | 0.078            | 0.06   | 46                                                | c,f   |           |
+| 12  | PSR J1411+2551 | -              | 2.538    | -             | -             | 62.4             | 2.616            | 0.1699 | >H<sub>0</sub><sup>-1</sup>                | b,e   |           |
+| 13  | PSR J1946+2052 | 1.0882         | 2.50      | 1.25          | 1.25          | 17.0             | 0.078            | 0.06   | 46                                                | c,f   |           |
 | 14  | PSR B2127+11C<sup>*</sup>   | 1.1805         | 2.713             | 1.358         | 1.354         | 30.5             | 0.335            | 0.681  | 97                                                | a   |           |
-| 15  | PSR J0509+3801 | 1.2174         | 2.810          | 1.34±0.08     | 1.46±0.08     | 76.5             | 0.380            | 0.586  | 153                                                | g   |           |
+| 15  | PSR J0509+3801 | 1.2174         | 2.810          | 1.34     | 1.46     | 76.5             | 0.380            | 0.586  | 153                                                | g   |           |
 | 16  | GW170817<sup>†</sup>        | 1.188          | 2.73-3.29        | 1.36-2.26     | 0.86-1.36     |              |            |  |                                                 | h   |           |
-| 17  | GW190425<sup>†</sup>        | 1.44±0.02      | 3.4<sup>+0.3</sup><sub>-0.1</sub>         | 1.60-2.52     | 1.12-1.69     |              |            |  |                                                 | i   |           |
+| 17  | GW190425<sup>†</sup>        | 1.44     | 3.4        | 1.60-2.52     | 1.12-1.69     |              |            |  |                                                 | i   |           |
 
-For GW170817, the error bars are 1.188<sup>+0.004</sup><sub>-0.002</sub>.
+
 
 
 ### Units, Symbols, and Notes
@@ -43,6 +43,7 @@ For GW170817, the error bars are 1.188<sup>+0.004</sup><sub>-0.002</sub>.
 - Check merger times
 - Check chronology
 - Double check values and references
+- Include full bibliography
 
 ## Bibliography
 
