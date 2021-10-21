@@ -31,18 +31,20 @@ Machine readable Table of the mass and other properties of the current sample of
 | 17  | GW190425<sup>†</sup>          | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | i   | 2019 |
 
 
+### Description, Units, Symbols, and Notes
+M<sub>c</sub>: chirp mass, in solar masses.
 
+M<sub>tot</sub>: total mass, in solar masses.
 
-### Units, Symbols, and Notes
-[M<sub>c</sub>] = [M<sub>tot</sub>] = [M<sub>1</sub>] = [M<sub>2</sub>] = Msun
+M<sub>1</sub>: primary/pulsar mass, in solar masses.
 
-[P<sub>spin</sub>] = ms
+M<sub>2</sub>: secondary/companion mass, in solar masses.
 
-[P<sub>orb</sub>] = days
+P<sub>spin</sub>: pulsar spin period, in milliseconds. 
 
-[t<sub>merge</sub>] = Myr
+P<sub>orb</sub>: orbital period, in days.
 
-If t<sub>merge</sub> = inf, the BNS will not merge within the age of the Universe.
+t<sub>merge</sub>: time to merge via gravitational-wave emission, in Myr. If t<sub>merge</sub> = inf, the BNS will not merge within the age of the Universe.
 
 <sup>†</sup> Extra-galactic 
 
