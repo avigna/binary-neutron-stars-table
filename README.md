@@ -81,7 +81,7 @@ nan: not provided.
 
 <sup>k</sup> [Andrews & Mandel (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...8A/abstract)
 
-### PSR J0453+1559:
+### PSR J0453+1559
 
 Martinez, J. G., “Pulsar J0453+1559: A Double Neutron Star System with a Large Mass Asymmetry”, <i>The Astrophysical Journal</i>, vol. 812, no. 2, 2015. doi:10.1088/0004-637X/812/2/143.
  [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...812..143M/abstract)
