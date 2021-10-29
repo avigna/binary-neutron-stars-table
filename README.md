@@ -3,7 +3,7 @@
 ## Work in progress...
 ### To-Dos
 - Check merger times
-- Check chronology
+- Check year and modify chronology
 - Double check values and references
 - Include full bibliography
 
