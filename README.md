@@ -20,7 +20,7 @@ Machine readable Table of the mass and other properties of the current sample of
 | 6   | PSR J1913+1102 | 1,2468         | 2,8887         | 1,62          | 1,27          | 27,28            | 0,206            | 0,09   | 2687              | a,b   | 2016 |
 | 7   | PSR J1757-1854 | 1,1893         | 2,733          | 1,338         | 1,395         | 21,5             | 0,183            | 0,606  | 76, 130           | b,c   | 2016 |
 | 8   | PSR J1518+4904 | nan            | 2,718          | nan           | nan           | 40,9             | 8,634            | 0,249  | inf               | a,b   | 1997 |
-| 9   | PSR J1811-1736 | nan            | 2,570          | nan           | nan           | 104,2            | 18,779           | 0,828  | inf               | a,b   |     |
+| 9   | PSR J1811-1736 | nan            | 2,570          | nan           | nan           | 104,2            | 18,779           | 0,828  | inf               | a,b   | 2001 |
 | 10  | PSR J1829+2456 | nan            | 2,590          | nan           | nan           | 41,0             | 1,176            | 0,139  | inf               | a,b   |     |
 | 11  | PSR J1930-1852 | nan            | 2,590          | nan           | nan           | 185,5            | 45,060           | 0,399  | inf               | a,b   |     |
 | 12  | PSR J1411+2551 | nan            | 2,538          | nan           | nan           | 62,4             | 2,616            | 0,1699 | inf               | b,e   |     |
@@ -126,6 +126,19 @@ Janssen, G. H., “Multi-telescope timing of PSR J1518+4904”, <i>Astronomy and
 
 Sayer, R. W., Nice, D. J., and Taylor, J. H., “The Green Bank Northern Sky Survey for Fast Pulsars”, <i>The Astrophysical Journal</i>, vol. 474, no. 1, pp. 426–432, 1997. doi:10.1086/303446.
 [ADS link](https://ui.adsabs.harvard.edu/abs/1997ApJ...474..426S/abstract)
+
+### PSR J1811-1736
+Manchester, R. N., “The Parkes multi-beam pulsar survey - I. Observing and data analysis systems, discovery and timing of 100 pulsars”, <i>Monthly Notices of the Royal Astronomical Society</i>, vol. 328, no. 1, pp. 17–35, 2001. doi:10.1046/j.1365-8711.2001.04751.x.
+[ADS link](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328...17M/abstract)
+
+###
+[ADS link]()
+
+###
+[ADS link]()
+
+###
+[ADS link]()
 
 ###
 [ADS link]()
