@@ -21,8 +21,8 @@ Machine readable Table of the mass and other properties of the current sample of
 | 7   | PSR J1757-1854 | 1,1893         | 2,733          | 1,338         | 1,395         | 21,5             | 0,183            | 0,606  | 76, 130           | b,c   | 2016 |
 | 8   | PSR J1518+4904 | nan            | 2,718          | nan           | nan           | 40,9             | 8,634            | 0,249  | inf               | a,b   | 1997 |
 | 9   | PSR J1811-1736 | nan            | 2,570          | nan           | nan           | 104,2            | 18,779           | 0,828  | inf               | a,b   | 2001 |
-| 10  | PSR J1829+2456 | nan            | 2,590          | nan           | nan           | 41,0             | 1,176            | 0,139  | inf               | a,b   |     |
-| 11  | PSR J1930-1852 | nan            | 2,590          | nan           | nan           | 185,5            | 45,060           | 0,399  | inf               | a,b   |     |
+| 10  | PSR J1829+2456 | nan            | 2,590          | nan           | nan           | 41,0             | 1,176            | 0,139  | inf               | a,b   | 1999 |
+| 11  | PSR J1930-1852 | nan            | 2,590          | nan           | nan           | 185,5            | 45,060           | 0,399  | inf               | a,b   | 2012 |
 | 12  | PSR J1411+2551 | nan            | 2,538          | nan           | nan           | 62,4             | 2,616            | 0,1699 | inf               | b,e   |     |
 | 13  | PSR J1946+2052 | 1,0882         | 2,50           | 1,25          | 1,25          | 17,0             | 0,078            | 0,06   | 46                | c,f   |     |
 | 14  | PSR B2127+11C<sup>*</sup>     | 1,1805         | 2,713             | 1,358         | 1,354         | 30,5             | 0,335            | 0,681  | 97   | a   |   |
@@ -131,8 +131,16 @@ Sayer, R. W., Nice, D. J., and Taylor, J. H., “The Green Bank Northern Sky Sur
 Manchester, R. N., “The Parkes multi-beam pulsar survey - I. Observing and data analysis systems, discovery and timing of 100 pulsars”, <i>Monthly Notices of the Royal Astronomical Society</i>, vol. 328, no. 1, pp. 17–35, 2001. doi:10.1046/j.1365-8711.2001.04751.x.
 [ADS link](https://ui.adsabs.harvard.edu/abs/2001MNRAS.328...17M/abstract)
 
-###
-[ADS link]()
+Corongiu, A., “The binary pulsar PSR J1811-1736: evidence of a low amplitude supernova kick”, <i>Astronomy and Astrophysics</i>, vol. 462, no. 2, pp. 703–709, 2007. doi:10.1051/0004-6361:20054385.
+[ADS link](https://ui.adsabs.harvard.edu/abs/2007A%26A...462..703C/abstract)
+
+### PSR J1829+2456
+Champion, D. J., “PSR J1829+2456: a relativistic binary pulsar”, <i>Monthly Notices of the Royal Astronomical Society</i>, vol. 350, no. 4, pp. L61–L65, 2004. doi:10.1111/j.1365-2966.2004.07862.x.
+[ADS link](https://ui.adsabs.harvard.edu/abs/2004MNRAS.350L..61C/abstract)
+
+### PSR J1930-1852
+Swiggum, J. K., “PSR J1930-1852: a Pulsar in the Widest Known Orbit around Another Neutron Star”, <i>The Astrophysical Journal</i>, vol. 805, no. 2, 2015. doi:10.1088/0004-637X/805/2/156.
+[ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...805..156S/abstract)
 
 ###
 [ADS link]()
@@ -140,8 +148,6 @@ Manchester, R. N., “The Parkes multi-beam pulsar survey - I. Observing and dat
 ###
 [ADS link]()
 
-###
-[ADS link]()
 
 ## Contact
 Please email your comments, queries, suggestions, and corrections to: avignagomez@nbi.ku.dk
