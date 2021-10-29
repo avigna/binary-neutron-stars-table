@@ -12,7 +12,7 @@ Machine readable Table of the mass and other properties of the current sample of
 ## Table
 | \#    | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e      | t<sub>merge</sub> | Ref   | Year |
 | ---- | -------------- | ------------- | --------------- | ------------- | ------------- | ---------------- | ----------------| ------ | ------------------| ----- | ---- |
-| 1   | PSR J0453+1559<sup>?</sup>  | 1,1754        | 2,734           | 1,559         | 1,174         | 45,8             | 4,072            | 0,113  | inf               | [a](#psr-j0453+1559)a,b   | 2015 |
+| 1   | PSR J0453+1559<sup>?</sup>  | 1,1754        | 2,734           | 1,559         | 1,174         | 45,8             | 4,072            | 0,113  | inf               | [a](#psrj04531559)a,b   | 2015 |
 | 2   | PSR J0737-3039 | 1,1253        | 2,587           | 1,338         | 1,249         | 22,7             | 0,102            | 0,088  | 204               | a,b   | 2003 |
 | 3   | PSR B1534+12   | 1,1661        | 2,678           | 1,333         | 1,346         | 37,9             | 0,421            | 0,274  | 248               | a,b   | 1991 |
 | 4   | PSR J1756-2251 | 1,1178         | 2,571          | 1,341         | 1,230         | 28,5             | 0,320            | 0,181  | 443               | a,b   | 2005 |
@@ -82,6 +82,7 @@ nan: not provided.
 <sup>k</sup> [Andrews & Mandel (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...8A/abstract)
 
 ### PSR J0453+1559
+### PSRJ04531559
 
 Martinez, J. G., “Pulsar J0453+1559: A Double Neutron Star System with a Large Mass Asymmetry”, <i>The Astrophysical Journal</i>, vol. 812, no. 2, 2015. doi:10.1088/0004-637X/812/2/143.
  [ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...812..143M/abstract)
