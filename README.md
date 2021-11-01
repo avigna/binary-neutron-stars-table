@@ -81,18 +81,14 @@ nan: not provided.
 
 <!-- <sup>k</sup> [Andrews & Mandel (2019)](https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...8A/abstract) -->
 
-### PSR B1913+16:
-
 #### a
 
-Hulse, R. A. and Taylor, J. H., “Discovery of a pulsar in a binary system.”, <i>The Astrophysical Journal</i>, vol. 195, pp. L51–L53, 1975. doi:10.1086/181708.
+PSR B1913+16: Hulse, R. A. and Taylor, J. H., “Discovery of a pulsar in a binary system.”, <i>The Astrophysical Journal</i>, vol. 195, pp. L51–L53, 1975. doi:10.1086/181708.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/1975ApJ...195L..51H/abstract)
-
-### PSR B2127+11C
 
 #### b
 
-Anderson, S. B., Gorham, P. W., Kulkarni, S. R., Prince, T. A., and Wolszczan, A., “Discovery of two radio pulsars in the globular cluster M15”, <i>Nature</i>, vol. 346, no. 6279, pp. 42–44, 1990. doi:10.1038/346042a0.
+PSR B2127+11C: Anderson, S. B., Gorham, P. W., Kulkarni, S. R., Prince, T. A., and Wolszczan, A., “Discovery of two radio pulsars in the globular cluster M15”, <i>Nature</i>, vol. 346, no. 6279, pp. 42–44, 1990. doi:10.1038/346042a0.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/1990Natur.346...42A/abstract)
 
 ### PSR J0453+1559
