@@ -1,13 +1,14 @@
 # Table of confirmed Binary Neutron Stars
 
-## Work in progress...
+## Beta release
+
 ### To-Dos
 - Double check values and references
 - Check year and modify chronology
 - Check merger times
 
 
-Machine readable Table of the mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars (PSR), M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. The values in this Table are the reported values, usually the median values. For further details about error bars and uncertanties please see the [bibliography](#bibliography) (Ref). Please [contact me](#contact) for any erratums.
+Machine readable Table of the mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars (PSR), M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. The values in this Table are the reported values, usually the median values. For further details, as well as information about error bars and uncertanties see the [bibliography](#bibliography) (Ref). Please [contact me](#contact) for any erratums.
 
 ## Table
 | \#    | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e      | t<sub>merge</sub> | Ref   | Year | Note |
