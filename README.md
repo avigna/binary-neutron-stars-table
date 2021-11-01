@@ -52,6 +52,8 @@ t<sub>merge</sub>: time to merge via gravitational-wave emission, in Myr. If t<s
 
 nan: not provided.
 
+NA: not applicable.
+
 ?: system has been proposed as a NSWD.
 
 †: Extra-galactic 
