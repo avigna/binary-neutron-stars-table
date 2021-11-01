@@ -21,14 +21,14 @@ Machine readable Table of the mass and other properties of the current sample of
 | 7  | PSR J1829+2456 | nan            | 2,590          | nan           | nan           | 41,0             | 1,176            | 0,139  | inf               | [k](#k)   | 2004 |
 | 8   | PSR J1756-2251 | 1,1178         | 2,571          | 1,341         | 1,230         | 28,5             | 0,320            | 0,181  | 443               | [l](#l)   | 2005 |
 | 9  | PSR J1930-1852 | nan            | 2,590          | nan           | nan           | 185,5            | 45,060           | 0,399  | inf               | [m](#m)    | 2012 |
-| 15  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 153                         | g     | 2014 |
-| 1   | PSR J0453+1559<sup>?</sup>  | 1,1754        | 2,734           | 1,559         | 1,174         | 45,8             | 4,072            | 0,113  | inf               |    | 2015 |
-| 12  | PSR J1411+2551 | nan            | 2,538          | nan           | nan           | 62,4             | 2,616            | 0,1699 | inf               | b,e   | 2015 |
-| 6   | PSR J1913+1102 | 1,2468         | 2,8887         | 1,62          | 1,27          | 27,28            | 0,206            | 0,09   | 2687              | a,b   | 2016 |
-| 7   | PSR J1757-1854 | 1,1893         | 2,733          | 1,338         | 1,395         | 21,5             | 0,183            | 0,606  | 76, 130           | b,c   | 2016 |
-| 13  | PSR J1946+2052 | 1,0882         | 2,50           | 1,25          | 1,25          | 17,0             | 0,078            | 0,06   | 46                | c,f   | 2017 |
-| 16  | GW170817<sup>†</sup>          | 1,188          | 2,73-3,29        | 1,36-2,26     | 0,86-1,36     | nan          | nan        | nan  | nan          | h     | 2017 |
-| 17  | GW190425<sup>†</sup>          | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | i     | 2019 |
+| 10   | PSR J0453+1559<sup>?</sup>  | 1,1754        | 2,734           | 1,559         | 1,174         | 45,8             | 4,072            | 0,113  | inf               | [n](#n)   | 2015 |
+| 11   | PSR J1913+1102 | 1,2468         | 2,8887         | 1,62          | 1,27          | 27,28            | 0,206            | 0,09   | 2687              |[o](#o)| 2016 |
+| 12  | GW170817<sup>†</sup>          | 1,188          | 2,73-3,29        | 1,36-2,26     | 0,86-1,36     | nan          | nan        | nan  | nan          | [p](#p)     | 2017 |
+| 15  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 153                         |      |  |
+| 12  | PSR J1411+2551 | nan            | 2,538          | nan           | nan           | 62,4             | 2,616            | 0,1699 | inf               |    |  |
+| 7   | PSR J1757-1854 | 1,1893         | 2,733          | 1,338         | 1,395         | 21,5             | 0,183            | 0,606  | 76, 130           |    |  |
+| 13  | PSR J1946+2052 | 1,0882         | 2,50           | 1,25          | 1,25          | 17,0             | 0,078            | 0,06   | 46                |    |  |
+| 17  | GW190425<sup>†</sup>          | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          |      | 2019 |
 
 
 ### Descriptions, Units, Symbols, and Notes
@@ -125,21 +125,24 @@ PSR J1756-2251: Faulkner, A. J., “PSR J1756-2251: A New Relativistic Double Ne
 PSR J1930-1852: Swiggum, J. K., “PSR J1930-1852: a Pulsar in the Widest Known Orbit around Another Neutron Star”, <i>The Astrophysical Journal</i>, vol. 805, no. 2, 2015. doi:10.1088/0004-637X/805/2/156.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...805..156S/abstract)
 
-### PSR J0453+1559
-Martinez, J. G., “Pulsar J0453+1559: A Double Neutron Star System with a Large Mass Asymmetry”, <i>The Astrophysical Journal</i>, vol. 812, no. 2, 2015. doi:10.1088/0004-637X/812/2/143.
- [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...812..143M/abstract)
+#### n 
 
-### PSR J1913+1102:
-Lazarus, P., “Einstein@Home Discovery of a Double Neutron Star Binary in the PALFA Survey”, <i>The Astrophysical Journal</i>, vol. 831, no. 2, 2016. doi:10.3847/0004-637X/831/2/150.
+PSR J0453+1559:Martinez, J. G., “Pulsar J0453+1559: A Double Neutron Star System with a Large Mass Asymmetry”, <i>The Astrophysical Journal</i>, vol. 812, no. 2, 2015. doi:10.1088/0004-637X/812/2/143.
+ [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2015ApJ...812..143M/abstract)
+ 
+#### o
+
+PSR J1913+1102: Lazarus, P., “Einstein@Home Discovery of a Double Neutron Star Binary in the PALFA Survey”, <i>The Astrophysical Journal</i>, vol. 831, no. 2, 2016. doi:10.3847/0004-637X/831/2/150.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2016ApJ...831..150L/abstract)
+
+#### p
+
+GW170817: Abbott, B. P., “GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral”, <i>Physical Review Letters</i>, vol. 119, no. 16, 2017. doi:10.1103/PhysRevLett.119.161101. 
+[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2017PhRvL.119p1101A/abstract)
 
 ### PSR J1411+2551
 Martinez, J. G., “Pulsar J1411+2551: A Low-mass Double Neutron Star System”, <i>The Astrophysical Journal</i>, vol. 851, no. 2, 2017. doi:10.3847/2041-8213/aa9d87.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...851L..29M/abstract)
-
-### GW170817
-Abbott, B. P., “GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral”, <i>Physical Review Letters</i>, vol. 119, no. 16, 2017. doi:10.1103/PhysRevLett.119.161101. 
-[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2017PhRvL.119p1101A/abstract)
 
 ### PSR J1757-1854
 Cameron, A. D., “The High Time Resolution Universe Pulsar Survey - XIII. PSR J1757-1854, the most accelerated binary pulsar”, <i>Monthly Notices of the Royal Astronomical Society</i>, vol. 475, no. 1, pp. L57–L61, 2018. doi:10.1093/mnrasl/sly003.
@@ -177,7 +180,6 @@ Zhu, X., Thrane, E., Osłowski, S., Levin, Y., and Lasky, P. D., “Inferring th
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2018PhRvD..98d3002Z/abstract)
 
 Andrews, J. J. and Mandel, I., “Double Neutron Star Populations and Formation Channels”, <i>The Astrophysical Journal</i>, vol. 880, no. 1, 2019. doi:10.3847/2041-8213/ab2ed1.
-
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2019ApJ...880L...8A/abstract)
 
 
