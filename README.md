@@ -2,6 +2,14 @@
 
 Machine readable Table of the mass and other properties of the current sample of confirmed binary neutron stars (BNSs). For pulsars (PSR), M<sub>1</sub> and M<sub>2</sub> are the mass of the pulsar and the companion respectively. The values in this Table are the reported values, usually the median values. For further details, as well as information about error bars and uncertanties see the [bibliography](#bibliography) (Ref). Please [contact me](#contact) for any erratums.
 
+## Contents
+
+1. [Table](#table)
+3. [Bibliography](#bibliography)
+4. [Other compilations](#other-compilations)
+5. [Contact](#contact)
+6. [License](#license)
+
 ## Table
 | \#    | System         | M<sub>c</sub> | M<sub>tot</sub> | M<sub>1</sub> | M<sub>2</sub> | P<sub>spin</sub> | P<sub>orb</sub> | e      | t<sub>merge</sub> | Ref   | Year | Note |
 | ---- | -------------- | ------------- | --------------- | ------------- | ------------- | ---------------- | ----------------| ------ | ------------------| ----- | ---- | ------- |
@@ -167,7 +175,7 @@ GW190425: Abbott, B. P., “GW190425: Observation of a Compact Binary Coalescenc
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)
 
 
-### See also: papers with BNS compilations and tables
+## Other compilations
 
 Tauris, T. M., “Formation of Double Neutron Star Systems”, <i>The Astrophysical Journal</i>, vol. 846, no. 2, 2017. doi:10.3847/1538-4357/aa7e89.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2017ApJ...846..170T/abstract)
