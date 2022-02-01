@@ -27,9 +27,9 @@ Machine readable Table of the mass and other properties of the current sample of
 | 12  | GW170817         | 1,188          | 2,73-3,29        | 1,36-2,26     | 0,86-1,36     | nan          | nan        | nan  | nan          | [q](#q)     | 2017 | †     |
 | 13  | PSR J1411+2551 | nan            | 2,538          | nan           | nan           | 62,4             | 2,616            | 0,1699 | inf               |  [r](#r)  | 2017 |   NA  |
 | 14   | PSR J1757-1854 | 1,1893         | 2,733          | 1,338         | 1,395         | 21,5             | 0,183            | 0,606  | 76            | [s](#s)   | 2018  |  NA   |
-| 15  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 153                         | [t](#t)      | 2018  |   NA  |
-| 16  | PSR J1946+2052 | 1,0882         | 2,50           | 1,25          | 1,25          | 17,0             | 0,078            | 0,06   | 46                | [u](#u)-[v](#v)   |2018 |  NA   |
-| 17  | GW190425         | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | [w](#w)     | 2019 |  †   |
+| 15  | PSR J1946+2052 | 1,0882         | 2,50           | 1,25          | 1,25          | 17,0             | 0,078            | 0,06   | 46                | [t](#t)   |2018 |  NA   |
+| 16  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 153                         | [u](#u)      | 2018  |   NA  |
+| 17  | GW190425         | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | [v](#v)     | 2019 |  †   |
 
 
 ### Descriptions, Units, Symbols, and Notes
@@ -161,24 +161,15 @@ PSR J1757-1854: Cameron, A. D., “The High Time Resolution Universe Pulsar Surv
 
 #### t 
 
-#### u
-
-#### v
-
-#### w
-
-
 PSR J1946+2052: Stovall, K., “PALFA Discovery of a Highly Relativistic Double Neutron Star Binary”, <i>The Astrophysical Journal</i>, vol. 854, no. 2, 2018. doi:10.3847/2041-8213/aaad06.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2018ApJ...854L..22S/abstract)
+
+#### u
 
 PSR J0509+3801: Lynch, R. S., “The Green Bank North Celestial Cap Pulsar Survey. III. 45 New Pulsar Timing Solutions”, <i>The Astrophysical Journal</i>, vol. 859, no. 2, 2018. doi:10.3847/1538-4357/aabf8a.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2018ApJ...859...93L/abstract)
 
-PSR J1913+1102: Ferdman, R. D. and PALFA Collaboration, “PSR J1913+1102: a pulsar in a highly asymmetric and relativistic double neutron star system”, in <i>Pulsar Astrophysics the Next Fifty Years</i>, 2018, vol. 337, pp. 146–149. doi:10.1017/S1743921317009139. 
-[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2018IAUS..337..146F/abstract)
-
-PSR J1913+1102: Ferdman, R. D., “Asymmetric mass ratios for bright double neutron-star mergers”, <i>Nature</i>, vol. 583, no. 7815, pp. 211–214, 2020. doi:10.1038/s41586-020-2439-x.
-[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2020Natur.583..211F/abstract)
+#### v
 
 GW190425: Abbott, B. P., “GW190425: Observation of a Compact Binary Coalescence with Total Mass ∼ 3.4 M<SUB>⊙</SUB>”, <i>The Astrophysical Journal</i>, vol. 892, no. 1, 2020. doi:10.3847/2041-8213/ab75f5.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)
