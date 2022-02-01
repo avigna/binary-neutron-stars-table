@@ -142,6 +142,7 @@ PSR J1913+1102: Lazarus, P., “Einstein@Home Discovery of a Double Neutron Star
 #### p
 
 PSR J1913+1102: Ferdman, R. D., “Asymmetric mass ratios for bright double neutron-star mergers”, <i>Nature</i>, vol. 583, no. 7815, pp. 211–214, 2020. doi:10.1038/s41586-020-2439-x.
+[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2020Natur.583..211F/abstract)
 
 #### q
 
