@@ -32,7 +32,7 @@ Machine readable Table of the mass and other properties of the current sample of
 | 15  | PSR J1946+2052 | nan         | 2,50           | nan          | nan         | 17,0             | 0,078            | 0,06   | 46                | [t](#t)   |2018 |  NA   |
 | 16  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 580                         | [u](#u)      | 2018  |   NA  |
 | 17  | GW190425         | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | [v](#v)     | 2020 |  †   |
-| 18  | PSR J1759+5036         | nan           | 2,62              | nan     | nan     |  176,0         |  2,04       | 0,3   |  inf         | [w](#w)     | 2021 | NA  |
+| 18  | PSR J1759+5036         | nan           | 2,62              | nan     | nan     |  176,0         |  2,04       | 0,3   |  inf         | [w](#w)     | 2021 | ?  |
 
 
 ### Descriptions, Units, Symbols, and Notes
