@@ -32,7 +32,9 @@ Machine readable Table of the mass and other properties of the current sample of
 | 15  | PSR J1946+2052 | nan         | 2,50           | nan          | nan         | 17,0             | 0,078            | 0,06   | 46                | [t](#t)   |2018 |  NA   |
 | 16  | PSR J0509+3801 | 1,2174         | 2,810          | 1,34     | 1,46     | 76,5             | 0,380            | 0,586  | 580                         | [u](#u)      | 2018  |   NA  |
 | 17  | GW190425         | 1,44           | 3,4              | 1,60-2,52     | 1,12-1,69     | nan          | nan        | nan  | nan          | [v](#v)     | 2020 |  †   |
-
+| 18  | PSR J1759+5036         | nan           | 2,62              | nan     | nan     | 176,0         |  2,04       | 0,3   |  inf         | [w](#w)     | 2021 | ?  |
+| 19  | PSR J1753-2240         | nan           | nan              | nan     | nan     | 95,1          | 13,638       | 0,304   | inf         | [x](#x)     | 2008 | ?  |
+ 
 
 ### Descriptions, Units, Symbols, and Notes
 
@@ -176,6 +178,15 @@ PSR J0509+3801: Lynch, R. S., “The Green Bank North Celestial Cap Pulsar Surve
 GW190425: Abbott, B. P., “GW190425: Observation of a Compact Binary Coalescence with Total Mass ∼ 3.4 M<SUB>⊙</SUB>”, <i>The Astrophysical Journal</i>, vol. 892, no. 1, 2020. doi:10.3847/2041-8213/ab75f5.
 [NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2020ApJ...892L...3A/abstract)
 
+#### w
+
+PSR J1759+5036: Agazie, G. Y., “The Green Bank Northern Celestial Cap Pulsar Survey. VI. Discovery and Timing of PSR J1759+5036: A Double Neutron Star Binary Pulsar”, <i>The Astrophysical Journal</i>, vol. 922, no. 1, 2021. doi:10.3847/1538-4357/ac142b.
+[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2021ApJ...922...35A/abstract)
+
+#### x
+
+PSR J1753-2240: Keith, M. J., “PSR J1753-2240: a mildly recycled pulsar in an eccentric binary system”, <i>Monthly Notices of the Royal Astronomical Society</i>, vol. 393, no. 2, pp. 623–627, 2009. doi:10.1111/j.1365-2966.2008.14234.x.
+[NASA/ADS link](https://ui.adsabs.harvard.edu/abs/2009MNRAS.393..623K/abstract)
 
 ## Other compilations
 
