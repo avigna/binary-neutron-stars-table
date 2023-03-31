@@ -204,7 +204,7 @@ Andrews, J. J. and Mandel, I., “Double Neutron Star Populations and Formation 
 
 
 ## Contact
-Please email your comments, queries, suggestions, and corrections to: avignagomez@nbi.ku.dk
+Please email your comments, queries, suggestions, and corrections to: avigna@mpa-garching.mpg.de
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
